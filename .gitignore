@@ -1,0 +1,44 @@
+# Vivado generated files
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.gen/
+.runs/
+xsim.dir/
+
+# Vivado project-generated files
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wcfg
+
+# Synthesis / implementation generated files
+*.rpt
+*.dcp
+*.bit
+*.ltx
+*.xpe
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.~*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Vivado project files
+*.xpr
+*.xpr.zip
+*.project
+*.project.local
