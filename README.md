@@ -39,11 +39,11 @@ UART-SPI-Peripheral/
 │
 ├── waveforms/
 ├── spi_master_waveform.png
-├── top_level_integration.png
-├── top_level_integration_detailed.png
-├── uart_rx_waveform.png
-├── uart_spi_controller_waveform.png
-└── uart_tx_waveform.png
+│   ├── top_level_integration.png
+│   ├── top_level_integration_detailed.png
+│   ├── uart_rx_waveform.png
+│   ├── uart_spi_controller_waveform.png
+│   └── uart_tx_waveform.png
 │
 ├── README.md
 └── .gitignore
